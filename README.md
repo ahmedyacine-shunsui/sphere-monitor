@@ -12,7 +12,7 @@ A real-time monitoring dashboard built with React, Vite, and Recharts.
 - React
 - Vite
 - Recharts
-- Socket.IO (optional)
+- Socket.IO 
 
 ## 🚀 Installation
 
